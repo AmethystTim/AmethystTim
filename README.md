@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **1819539569@qq.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <b>🐧 QQ</b>: 1819539569
 </p>
