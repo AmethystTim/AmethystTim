@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">A student in HITSZ</h3>
 
-- 🌱 I’m currently learning **Computer Network**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 📫 How to reach me **1819539569@qq.com**
 
